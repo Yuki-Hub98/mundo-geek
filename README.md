@@ -176,6 +176,7 @@ docker-compose up -d
 ```bash
 npm install
 ```
+### Arquivo .env
 
 ```bash
 PORT=6060
