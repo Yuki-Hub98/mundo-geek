@@ -181,6 +181,7 @@ npm install
 PORT=6060
 ```
 
+```bash
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
