@@ -175,13 +175,10 @@ docker-compose up -d
 
 ```bash
 npm install
-
-
-```bash
-PORT=6060
 ```
 
 ```bash
+PORT=6060
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
